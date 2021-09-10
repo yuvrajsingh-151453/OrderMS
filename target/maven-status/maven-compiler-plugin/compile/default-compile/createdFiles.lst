@@ -1,4 +1,5 @@
 com\ordermanagement\gp8\order\entity\Order.class
+META-INF\MANIFEST.MF
 com\ordermanagement\gp8\order\service\OrderService.class
 com\ordermanagement\gp8\order\utility\ExceptionControllerAdvice.class
 com\ordermanagement\gp8\order\repository\OrderRepository.class
@@ -10,5 +11,7 @@ com\ordermanagement\gp8\order\repository\ReorderRepository.class
 com\ordermanagement\gp8\order\OrderApplication.class
 com\ordermanagement\gp8\order\service\ProductOrderService.class
 com\ordermanagement\gp8\order\dto\OrderDTO.class
+META-INF\maven\com.ordermanagement.gp8\orderms\pom.xml
 com\ordermanagement\gp8\order\repository\ProductsOrderRepo.class
 com\ordermanagement\gp8\order\controller\OrderController.class
+META-INF\maven\com.ordermanagement.gp8\orderms\pom.properties
