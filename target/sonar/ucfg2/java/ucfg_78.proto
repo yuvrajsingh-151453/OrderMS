@@ -1,0 +1,78 @@
+
+¨com.ordermanagement.gp8.order.dto.ProductsorderedDTO#valueOf(Lcom/ordermanagement/gp8/order/entity/Productsorder;)Lcom/ordermanagement/gp8/order/dto/ProductsorderedDTO;t
+jC:/Users/ABC/Desktop/Today/orderms/src/main/java/com/ordermanagement/gp8/order/dto/ProductsorderedDTO.java=" =()"1*ù
+1t
+jC:/Users/ABC/Desktop/Today/orderms/src/main/java/com/ordermanagement/gp8/order/dto/ProductsorderedDTO.java?# ?(;ëè
+t
+jC:/Users/ABC/Desktop/Today/orderms/src/main/java/com/ordermanagement/gp8/order/dto/ProductsorderedDTO.java?' ?(9:
+%04com.ordermanagement.gp8.order.dto.ProductsorderedDTO"4com.ordermanagement.gp8.order.dto.ProductsorderedDTOý
+ú
+t
+jC:/Users/ABC/Desktop/Today/orderms/src/main/java/com/ordermanagement/gp8/order/dto/ProductsorderedDTO.java?# ?(;
+%1">com.ordermanagement.gp8.order.dto.ProductsorderedDTO#<init>()V*<
+:
+%04com.ordermanagement.gp8.order.dto.ProductsorderedDTO‚
+ÿ
+t
+jC:/Users/ABC/Desktop/Today/orderms/src/main/java/com/ordermanagement/gp8/order/dto/ProductsorderedDTO.java? ?(<C
+proorderDTO4com.ordermanagement.gp8.order.dto.ProductsorderedDTO"__id*<
+:
+%04com.ordermanagement.gp8.order.dto.ProductsorderedDTO¯¬
+t
+jC:/Users/ABC/Desktop/Today/orderms/src/main/java/com/ordermanagement/gp8/order/dto/ProductsorderedDTO.javaA A()
+%2java.lang.String"Qcom.ordermanagement.gp8.order.entity.Productsorder#getBuyerid()Ljava/lang/String;*;
+9
+pro2com.ordermanagement.gp8.order.entity.Productsorder2getBuyerid()ÜÙ
+t
+jC:/Users/ABC/Desktop/Today/orderms/src/main/java/com/ordermanagement/gp8/order/dto/ProductsorderedDTO.javaA A(*
+
+%3void"Tcom.ordermanagement.gp8.order.dto.ProductsorderedDTO#setBuyerid(Ljava/lang/String;)V*E
+C
+proorderDTO4com.ordermanagement.gp8.order.dto.ProductsorderedDTO*
+
+%2java.lang.String2setBuyerid(Ljava/lang/String;)­ª
+t
+jC:/Users/ABC/Desktop/Today/orderms/src/main/java/com/ordermanagement/gp8/order/dto/ProductsorderedDTO.javaB B('
+%4java.lang.String"Pcom.ordermanagement.gp8.order.entity.Productsorder#getProdid()Ljava/lang/String;*;
+9
+pro2com.ordermanagement.gp8.order.entity.Productsorder2getProdid()Ú×
+t
+jC:/Users/ABC/Desktop/Today/orderms/src/main/java/com/ordermanagement/gp8/order/dto/ProductsorderedDTO.javaB B((
+
+%5void"Scom.ordermanagement.gp8.order.dto.ProductsorderedDTO#setProdid(Ljava/lang/String;)V*E
+C
+proorderDTO4com.ordermanagement.gp8.order.dto.ProductsorderedDTO*
+
+%4java.lang.String2setProdid(Ljava/lang/String;)³°
+t
+jC:/Users/ABC/Desktop/Today/orderms/src/main/java/com/ordermanagement/gp8/order/dto/ProductsorderedDTO.javaC C(+
+%6java.lang.Integer"Scom.ordermanagement.gp8.order.entity.Productsorder#getQuantity()Ljava/lang/Integer;*;
+9
+pro2com.ordermanagement.gp8.order.entity.Productsorder2getQuantity()áÞ
+t
+jC:/Users/ABC/Desktop/Today/orderms/src/main/java/com/ordermanagement/gp8/order/dto/ProductsorderedDTO.javaC C(,
+
+%7void"Vcom.ordermanagement.gp8.order.dto.ProductsorderedDTO#setQuantity(Ljava/lang/Integer;)V*E
+C
+proorderDTO4com.ordermanagement.gp8.order.dto.ProductsorderedDTO*
+
+%6java.lang.Integer2 setQuantity(Ljava/lang/Integer;)±®
+t
+jC:/Users/ABC/Desktop/Today/orderms/src/main/java/com/ordermanagement/gp8/order/dto/ProductsorderedDTO.javaD D(+
+%8java.lang.String"Rcom.ordermanagement.gp8.order.entity.Productsorder#getSellerid()Ljava/lang/String;*;
+9
+pro2com.ordermanagement.gp8.order.entity.Productsorder2getSellerid()ÞÛ
+t
+jC:/Users/ABC/Desktop/Today/orderms/src/main/java/com/ordermanagement/gp8/order/dto/ProductsorderedDTO.javaD D(,
+
+%9void"Ucom.ordermanagement.gp8.order.dto.ProductsorderedDTO#setSellerid(Ljava/lang/String;)V*E
+C
+proorderDTO4com.ordermanagement.gp8.order.dto.ProductsorderedDTO*
+
+%8java.lang.String2setSellerid(Ljava/lang/String;)"½
+t
+jC:/Users/ABC/Desktop/Today/orderms/src/main/java/com/ordermanagement/gp8/order/dto/ProductsorderedDTO.javaE E(E
+C
+proorderDTO4com.ordermanagement.gp8.order.dto.ProductsorderedDTO:9
+pro2com.ordermanagement.gp8.order.entity.ProductsorderB8"6
+4com.ordermanagement.gp8.order.dto.ProductsorderedDTO

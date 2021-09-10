@@ -1,0 +1,7 @@
+organization=yuvraj
+projectKey=yuvrajsingh-151453_userms
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23159
+dashboardUrl=https://sonarcloud.io/dashboard?id=yuvrajsingh-151453_userms
+ceTaskId=AXvOdglrIHuiaklFsatn
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXvOdglrIHuiaklFsatn
